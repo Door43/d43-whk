@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[whk:home|Door43 (whk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-whk|d43-whk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-whk/archive/master.zip|d43-whk.zip]]
+
+**Recent Changes**
+{{changes>ns = whk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/whk|Ethnologue data]]
+
